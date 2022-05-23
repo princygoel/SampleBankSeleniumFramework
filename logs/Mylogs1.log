@@ -1,0 +1,14 @@
+[INFO ] 2022-03-30 14:30:30.773 [main] Log4Demo - This is information message..
+[ERROR] 2022-03-30 14:30:30.776 [main] Log4Demo - This is an error message
+[WARN ] 2022-03-30 14:30:30.777 [main] Log4Demo - This is an warning message
+[FATAL] 2022-03-30 14:30:30.777 [main] Log4Demo - This is an fatal message
+[TRACE] 2022-03-30 14:31:09.324 [main] Log4Demo - This is trace message..
+[INFO ] 2022-03-30 14:31:09.326 [main] Log4Demo - This is information message..
+[ERROR] 2022-03-30 14:31:09.326 [main] Log4Demo - This is an error message
+[WARN ] 2022-03-30 14:31:09.326 [main] Log4Demo - This is an warning message
+[FATAL] 2022-03-30 14:31:09.326 [main] Log4Demo - This is an fatal message
+[TRACE] 2022-03-30 14:44:05.478 [main] Log4Demo - This is trace message..
+[INFO ] 2022-03-30 14:44:05.481 [main] Log4Demo - This is information message..
+[ERROR] 2022-03-30 14:44:05.481 [main] Log4Demo - This is an error message
+[WARN ] 2022-03-30 14:44:05.482 [main] Log4Demo - This is an warning message
+[FATAL] 2022-03-30 14:44:05.482 [main] Log4Demo - This is an fatal message
